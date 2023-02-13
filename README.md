@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/Lny6Rw04nsOOc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc">via GIPHY</a></p>
 # 💫 About Me:
 🔭 I’m currently working on Python and Web Development.<br>🌱 I’m currently learning C#, Python and Web Development.<br>⚡ I am passionate and disciplined.
 
